@@ -1,0 +1,9 @@
+nltk
+numpy
+requests
+flask
+surprise
+redis
+celery
+pandas
+scikit-learn
